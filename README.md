@@ -4,13 +4,19 @@
 
 ## 📦 Релизы (архивы)
 
-| Архив | Релиз | Книг | Скачать релиз |
-|-------|-------|------|---------------|
-| 📁 nlib | `v1.0.0-rnlib` | 0 | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rnlib) |
-| 📁 gvia | `v1.0.0-rgvia` | 0 | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgvia) |
-| 📁 residential | `v1.0.0-presidential` | 0 | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-presidential) |
-| 📁 ther | `v1.0.0-other` | 0 | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-other) |
-| 📁 oogle_books | `v1.0.0-google_books` | 0 | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-google_books) |
+| Архив | Релиз | Префикс | Скачать релиз |
+|-------|-------|---------|---------------|
+| 🏛️ Президентская библиотека | `v1.0.0-presidential` | `[PB]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-presidential) |
+| 📚 РГБ | `v1.0.0-rsllib` | `[RGB] / [РГБ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rsllib) |
+| 📖 РНБ | `v1.0.0-rnlib` | `[RNB] / [РНБ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rnlib) |
+| 📜 РГВИА | `v1.0.0-rgvia` | `[РГВИА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgvia) |
+| 📜 РГВА | `v1.0.0-rgva` | `[РГВА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgva) |
+| ⚓ РГАВМФ | `v1.0.0-rgavmf` | `[РГАВМФ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgavmf) |
+| 📋 ГАРФ | `v1.0.0-garf` | `[ГАРФ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-garf) |
+| 📜 РГАДА | `v1.0.0-rgada` | `[РГАДА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgada) |
+| 🏛️ ГИМ | `v1.0.0-gim` | `[ГИМ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-gim) |
+| 📘 Google Books | `v1.0.0-google_books` | `[GB]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-google_books) |
+| 📁 Другие источники | `v1.0.0-other` | `без префикса` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-other) |
 
 **Всего книг: 0**
 
@@ -19,6 +25,14 @@
 | № | Название | Архив | Скачать |
 |---|----------|-------|---------|
 | *Нет книг* | | |
+
+---
+
+## 📌 Как добавить книгу
+
+1. Положите PDF-файл в папку `update_books_reliz/`
+2. Добавьте префикс в начало имени файла (см. таблицу выше)
+3. Запустите `python upload_to_release.py`
 
 ---
 
@@ -34,4 +48,4 @@
 
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
 
-📅 **Обновлено:** 14.07.2026 18:22:44
+📅 **Обновлено:** 14.07.2026 18:28:58
