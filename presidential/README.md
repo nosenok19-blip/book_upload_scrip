@@ -22,7 +22,7 @@
 | 7 | Артиллерийский журнал. 1899, № 1 (Pre_lib 1791888) - 296 стр | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB.%201899%2C%20%E2%84%96%201%20%28Pre_lib%201791888%29%20-%20296%20%D1%81%D1%82%D1%80.pdf) |
 | 8 | Артиллерия атаки и обороны (Pre_lib 805473) - 153 стр | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%8F%20%D0%B0%D1%82%D0%B0%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%20%28Pre_lib%20805473%29%20-%20153%20%D1%81%D1%82%D1%80.pdf) |
 
-📅 **Обновлено:** 14.07.2026 19:50:19
+📅 **Обновлено:** 14.07.2026 19:57:54
 
 ---
 
