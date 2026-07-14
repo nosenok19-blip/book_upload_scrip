@@ -1,21 +1,23 @@
-# 📁 Другие источники
+# 📁 Разное
 
-Книги из Другие источники
+Книги из Разное
 
 ## 📊 Статистика
 
-| Архив | Количество книг |
-|-------|-----------------|
-| Другие источники | 0 |
-| **Всего** | **0** |
+| Архив | Количество файлов |
+|-------|------------------|
+| Разное | 3 |
+| **Всего** | **3** |
 
-## 📖 Все книги Другие источники
+## 📖 Все файлы Разное
 
 | № | Название | Скачать |
 |---|----------|---------|
-| *Нет книг* | |
+| 1 | 1939_Udarn_Kamer_gal_TZ_S.jpg | [🖼️ Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Udarn_Kamer_gal_TZ_S.jpg) |
+| 2 | 1939_Verkehrsplan_Wilna_15K_1939.jpg | [🖼️ Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) |
+| 3 | 1939_plan_Таллин_250 м.jpg | [🖼️ Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
 
-📅 **Обновлено:** 14.07.2026 20:33:26
+📅 **Обновлено:** 14.07.2026 20:35:29
 
 ---
 
