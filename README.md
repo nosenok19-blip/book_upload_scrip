@@ -24,14 +24,14 @@
 
 | № | Название | Архив | Скачать |
 |---|----------|-------|---------|
-| 1 | Артиллерия атаки и обороны (Pre_lib 805473) - 153  | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Артиллерия атаки и обороны (Pre_lib 805473) - 153 стр.pdf) |
-| 2 | Артиллерийский журнал. 1899, № 1 (Pre_lib 1791888) | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Артиллерийский журнал. 1899, № 1 (Pre_lib 1791888) - 296 стр.pdf) |
-| 3 | Артиллерийский журнал. 1872, № 8 (Pre_lib 1785598) | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Артиллерийский журнал. 1872, № 8 (Pre_lib 1785598) - 254 стр.pdf) |
-| 4 | Антанта и Врангель. Вып. 1 (Pre_lib 718920) - 280  | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Антанта и Врангель. Вып. 1 (Pre_lib 718920) - 280 стр.pdf) |
-| 5 | Алфавит книжкам собрания законов и постановлений д | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Алфавит книжкам собрания законов и постановлений до морской части относящихся, с (Pre_lib 396930) - 155 стр.pdf) |
-| 6 | Александр Васильевич Суворов, генералиссимус русск | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/Александр Васильевич Суворов, генералиссимус русских войск (Pre_lib 396875) - 97 стр.pdf) |
-| 7 | 1924 Авиация в мировой войне (Pre_lib 316522) - 20 | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/1924 Авиация в мировой войне (Pre_lib 316522) - 202 стр.pdf) |
-| 8 | 1912. 316100_1-я Забайкальская казачья Его Императ | Президентская библиотека | [📥 Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/1912. 316100_1-я Забайкальская казачья Его Императорского Высочества Наследника Цесаревича батарея. 1857-1912 г..pdf) |
+| 1 | Артиллерия атаки и обороны (Pre_lib 805473) - 153  | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Артиллерия атаки и обороны (Pre_lib 805473) - 153 стр.pdf) |
+| 2 | Артиллерийский журнал. 1899, № 1 (Pre_lib 1791888) | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Артиллерийский журнал. 1899, № 1 (Pre_lib 1791888) - 296 стр.pdf) |
+| 3 | Артиллерийский журнал. 1872, № 8 (Pre_lib 1785598) | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Артиллерийский журнал. 1872, № 8 (Pre_lib 1785598) - 254 стр.pdf) |
+| 4 | Антанта и Врангель. Вып. 1 (Pre_lib 718920) - 280  | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Антанта и Врангель. Вып. 1 (Pre_lib 718920) - 280 стр.pdf) |
+| 5 | Алфавит книжкам собрания законов и постановлений д | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Алфавит книжкам собрания законов и постановлений до морской части относящихся, с (Pre_lib 396930) - 155 стр.pdf) |
+| 6 | Александр Васильевич Суворов, генералиссимус русск | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/Александр Васильевич Суворов, генералиссимус русских войск (Pre_lib 396875) - 97 стр.pdf) |
+| 7 | 1924 Авиация в мировой войне (Pre_lib 316522) - 20 | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/1924 Авиация в мировой войне (Pre_lib 316522) - 202 стр.pdf) |
+| 8 | 1912. 316100_1-я Забайкальская казачья Его Императ | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/1912. 316100_1-я Забайкальская казачья Его Императорского Высочества Наследника Цесаревича батарея. 1857-1912 г..pdf) |
 
 ---
 
@@ -47,4 +47,4 @@
 
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
 
-📅 **Обновлено:** 14.07.2026 19:37:55
+📅 **Обновлено:** 14.07.2026 19:41:00
