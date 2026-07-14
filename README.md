@@ -31,7 +31,7 @@
 | 7 | 📄 | 1921_Русский настольный календарь 1921 | Разное | [👁️](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1921_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%201921.pdf&embedded=true) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1921_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%201921.pdf) |
 | 8 | 📄 | 1919_Or_Kazach_vestn_87 | Разное | [👁️](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1919_Or_Kazach_vestn_87.pdf&embedded=true) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1919_Or_Kazach_vestn_87.pdf) |
 | 9 | 📄 | 1918_Театр Летучая мышь 1918 | Разное | [👁️](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1918_%D0%A2%D0%B5%D0%B0%D1%82%D1%80%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C%201918.pdf&embedded=true) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1918_%D0%A2%D0%B5%D0%B0%D1%82%D1%80%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C%201918.pdf) |
-| 10 | 🖼️ | 1918_kiev-map-historical-1918 | Разное | [👁️](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1918_kiev-map-historical-1918.jpg) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1918_kiev-map-historical-1918.jpg) |
+| 10 | 🖼️ | 1918_kiev-map-historical-1918 | Разное | [👁️](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1918_kiev-map-historical-1918.jpg&embedded=true) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1918_kiev-map-historical-1918.jpg) |
 
 ---
 ## ⚖️ Важно
@@ -42,4 +42,4 @@
 - Авторы и правообладатели имеют право требовать удаления материалов
 ---
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 15.07.2026 02:47:49
+📅 **Обновлено:** 15.07.2026 02:53:43
