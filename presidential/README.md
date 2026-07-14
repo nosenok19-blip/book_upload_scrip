@@ -9,7 +9,7 @@
 | Президентская библиотека | 9 |
 | **Всего** | **9** |
 
-## 📖 Все книги Президентской библиотеки
+## 📖 Все книги Президентская библиотека
 
 | № | Название | ID | Год | Скачать |
 |---|----------|----|----|---------|
@@ -23,7 +23,7 @@
 | 8 | 805473_Артиллерия_атаки_и_обороны | 805473 | 8054 | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/805473_%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%8F_%D0%B0%D1%82%D0%B0%D0%BA%D0%B8_%D0%B8_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B.pdf) |
 | 9 | 958979_XV_let_zhizni_L_Gv_Moskovskogo_polka_1878_1893_gg | 958979 | 9589 | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/958979_XV_let_zhizni_L_Gv_Moskovskogo_polka_1878_1893_gg.pdf) |
 
-📅 **Обновлено:** 14.07.2026 16:07:33
+📅 **Обновлено:** 14.07.2026 16:29:10
 
 ---
 
