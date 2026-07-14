@@ -17,7 +17,7 @@
 | 2 | 1939_Verkehrsplan_Wilna_15K_1939.jpg | [🖼️ Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) |
 | 3 | 1939_plan_Таллин_250 м.jpg | [🖼️ Скачать](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
 
-📅 **Обновлено:** 14.07.2026 20:35:29
+📅 **Обновлено:** 14.07.2026 21:12:37
 
 ---
 
