@@ -13,11 +13,11 @@
 
 | № | Название | Скачать |
 |---|----------|---------|
-| 1 | 1939_Udarn_Kamer_gal_TZ_S.jpg | [🖼️ Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_Udarn_Kamer_gal_TZ_S.jpg) |
-| 2 | 1939_Verkehrsplan_Wilna_15K_1939.jpg | [🖼️ Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) |
-| 3 | 1939_plan_Таллин_250 м.jpg | [🖼️ Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
+| 1 | 1939_Udarn_Kamer_gal_TZ_S.jpg | <a href="https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Udarn_Kamer_gal_TZ_S.jpg" target="_blank">🖼️ Скачать</a> |
+| 2 | 1939_Verkehrsplan_Wilna_15K_1939.jpg | <a href="https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg" target="_blank">🖼️ Скачать</a> |
+| 3 | 1939_plan_Таллин_250 м.jpg | <a href="https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg" target="_blank">🖼️ Скачать</a> |
 
-📅 **Обновлено:** 14.07.2026 20:07:23
+📅 **Обновлено:** 14.07.2026 20:16:50
 
 ---
 
