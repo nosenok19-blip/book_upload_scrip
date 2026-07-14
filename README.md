@@ -4,19 +4,19 @@
 
 ## 📦 Релизы (архивы)
 
-| Архив | Релиз | Префикс | Скачать релиз |
-|-------|-------|---------|---------------|
-| 🏛️ Президентская библиотека | `v1.0.0-presidential` | `[PB]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-presidential) |
-| 📚 РГБ | `v1.0.0-rsllib` | `[RGB] / [РГБ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rsllib) |
-| 📖 РНБ | `v1.0.0-rnlib` | `[RNB] / [РНБ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rnlib) |
-| 📜 РГВИА | `v1.0.0-rgvia` | `[РГВИА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgvia) |
-| 📜 РГВА | `v1.0.0-rgva` | `[РГВА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgva) |
-| ⚓ РГАВМФ | `v1.0.0-rgavmf` | `[РГАВМФ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgavmf) |
-| 📋 ГАРФ | `v1.0.0-garf` | `[ГАРФ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-garf) |
-| 📜 РГАДА | `v1.0.0-rgada` | `[РГАДА]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgada) |
-| 🏛️ ГИМ | `v1.0.0-gim` | `[ГИМ]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-gim) |
-| 📘 Google Books | `v1.0.0-google_books` | `[GB]` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-google_books) |
-| 📁 Другие источники | `v1.0.0-other` | `без префикса` | [📦 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-other) |
+| Архив | Релиз | Префикс | Перейти |
+|-------|-------|---------|---------|
+| 🏛️ Президентская библиотека | `v1.0.0-presidential` | `[PB]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-presidential) |
+| 📚 РГБ | `v1.0.0-rsllib` | `[RGB] / [РГБ]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rsllib) |
+| 📖 РНБ | `v1.0.0-rnlib` | `[RNB] / [РНБ]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rnlib) |
+| 📜 РГВИА | `v1.0.0-rgvia` | `[РГВИА]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgvia) |
+| 📜 РГВА | `v1.0.0-rgva` | `[РГВА]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgva) |
+| ⚓ РГАВМФ | `v1.0.0-rgavmf` | `[РГАВМФ]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgavmf) |
+| 📋 ГАРФ | `v1.0.0-garf` | `[ГАРФ]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-garf) |
+| 📜 РГАДА | `v1.0.0-rgada` | `[РГАДА]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-rgada) |
+| 🏛️ ГИМ | `v1.0.0-gim` | `[ГИМ]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-gim) |
+| 📘 Google Books | `v1.0.0-google_books` | `[GB]` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-google_books) |
+| 📁 Другие источники | `v1.0.0-other` | `без префикса` | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/releases/tag/v1.0.0-other) |
 
 **Всего книг: 0**
 
@@ -48,4 +48,4 @@
 
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
 
-📅 **Обновлено:** 14.07.2026 18:28:58
+📅 **Обновлено:** 14.07.2026 18:31:14
