@@ -41,7 +41,7 @@
 | 27 | 🖼️ | 1939_Verkehrsplan_Wilna_15K_1939 | [👁️](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) |
 | 28 | 🖼️ | 1939_plan_Таллин_250 м | [👁️](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
 
-📅 **Обновлено:** 15.07.2026 02:33:11
+📅 **Обновлено:** 15.07.2026 02:38:09
 ---
 ## ⚖️ Важно
 - Материалы предоставляются только в **личных некоммерческих целях**
