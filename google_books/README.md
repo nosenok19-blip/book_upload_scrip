@@ -1,6 +1,6 @@
 # 📘 Google Books
 
-Книги из архива Google Books
+Книги из Google Books
 
 ## 📊 Статистика
 
@@ -15,7 +15,7 @@
 |---|----------|----|----|---------|
 | 1 | 1844_Artil_jurnal_4_5_6_gygl | 1844 | 1844 | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/1844_Artil_jurnal_4_5_6_gygl.pdf) |
 
-📅 **Обновлено:** 14.07.2026 14:41:43
+📅 **Обновлено:** 14.07.2026 16:29:40
 
 ---
 
