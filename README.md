@@ -8,6 +8,8 @@
 
 | Название | ID | Год | Страниц | Скачать |
 |----------|----|----|---------|---------|
+| [Авиация в мировой войне](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/books/316522_Авиация в мировой войне.pdf) | 316522 |  | — | Президентская библиотека | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/books/316522_Авиация в мировой войне.pdf) |
+
 | 1-я Забайкальская казачья батарея | 316100 | 1857-1912 | 64 | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/raw/main/books/316100_1-я%20Забайкальская%20казачья%20Его%20Императорского%20Высочества%20Наследника%20Цесаревича%20батарея.%201857-1912%20г..pdf) |
 | XV лет жизни Л.-Гв. Московского полка. (1878-1893  | 958979 |  | 246 | [📥 Скачать](https://github.com/nosenok19-blip/book_upload_scrip/raw/main/Президентская_библиотека/958979_XV_let_zhizni_L_Gv_Moskovskogo_polka_1878_1893_gg.pdf) |
 
