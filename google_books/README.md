@@ -1,25 +1,25 @@
-# 📘 Google Books
+# Google Books
 
-Материалы из Google Books
+Materials from Google Books
 
-## 📊 Статистика
-| Тип | Количество |
-|-----|------------|
-| 📄 PDF книги | 1 |
-| **Всего файлов** | **1** |
+## Statistics
+| Type | Count |
+|------|-------|
+| PDF books | 1 |
+| **Total** | **1** |
 
-## 📖 Все материалы Google Books
-| № | Тип | Название | Просмотр | Скачать |
-|---|-----|----------|----------|---------|
-| 1 | 📄 | 1856_Карманная справочная книжка офицеров 1856 | [👁️](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/google_books/%5BGB%5D%201856_%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2%201856.pdf&embedded=true) | [📥](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/google_books/%5BGB%5D%201856_%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2%201856.pdf) |
+## All files in Google Books
+| # | Type | Name | View | Download |
+|---|------|------|------|----------|
+| 1 | PDF | 1856_Карманная справочная книжка офицеров 1856 | [View](https://view.officeapps.live.com/op/embed.aspx?src=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/google_books/%5BGB%5D%201856_%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2%201856.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/google_books/%5BGB%5D%201856_%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2%201856.pdf) |
 
-📅 **Обновлено:** 15.07.2026 02:52:47
+**Updated:** 15.07.2026 03:16:27
 ---
-## ⚖️ Важно
-- Материалы предоставляются только в **личных некоммерческих целях**
-- При использовании документов **обязательно упоминайте** библиотеку **«Царское Село»**
-- Пользователь **самостоятельно несет ответственность** за соблюдение прав третьих лиц
-- Текстовые данные могут содержать **ошибки автоматического распознавания**
-- Авторы и правообладатели имеют право требовать удаления материалов
+## Important
+- Materials are provided for **personal non-commercial use only**
+- When using documents, **be sure to mention** the library **Tsarskoye Selo**
+- The user is **solely responsible** for compliance with third-party rights
+- Text data may contain **automatic recognition errors**
+- Authors and copyright holders have the right to demand removal of materials
 ---
-🔗 **Вернуться на главную:** [README.md](../README.md)
+**Back to main:** [README.md](../README.md)
