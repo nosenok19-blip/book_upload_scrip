@@ -5,14 +5,15 @@ Materials from ГАРФ
 ## Statistics
 | Type | Count |
 |------|-------|
+| PDF books | 0 |
 | **Total** | **0** |
 
 ## All files
-| # | Type | Name | View (GitHub) | View (Online) | Download |
-|---|------|------|---------------|---------------|----------|
-| *No files* | | | | | |
+| # | Name | View (GitHub) | View (Online) | Download |
+|---|------|---------------|---------------|----------|
+| *No files* | | | | |
 
-**Updated:** 15.07.2026 10:36:59
+**Updated:** 15.07.2026 10:53:40
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
