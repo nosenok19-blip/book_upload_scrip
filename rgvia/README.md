@@ -8,11 +8,11 @@ Materials from РГВИА
 | **Total** | **0** |
 
 ## All files
-| # | Type | Name | View | Download |
-|---|------|------|------|----------|
-| *No files* | | | | |
+| # | Type | Name | View (GitHub) | View (Online) | Download |
+|---|------|------|---------------|---------------|----------|
+| *No files* | | | | | |
 
-**Updated:** 15.07.2026 03:22:18
+**Updated:** 15.07.2026 03:30:00
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
