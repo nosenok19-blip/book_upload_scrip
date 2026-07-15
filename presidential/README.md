@@ -2,11 +2,11 @@
 
 Materials from Президентская библиотека
 
-## 📊 Statistics
+## Statistics
 
 | Type | Count |
 |------|-------|
-| 📄 PDF books (GitHub) | 18 |
+| PDF books (GitHub) | 18 |
 | **Total** | **18** |
 
 ## 📁 Files on GitHub
@@ -33,11 +33,10 @@ Materials from Президентская библиотека
 | 18 | PDF | Соловецкие острова. Дамба между островами<br>(Pre_lib 370215) - 6 стр | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/%5BPB%5D%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0.%20%D0%94%D0%B0%D0%BC%D0%B1%D0%B0%20%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8%20%28Pre_lib%20370215%29%20-%206%20%D1%81%D1%82%D1%80.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0.%20%D0%94%D0%B0%D0%BC%D0%B1%D0%B0%20%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8%20%28Pre_lib%20370215%29%20-%206%20%D1%81%D1%82%D1%80.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0.%20%D0%94%D0%B0%D0%BC%D0%B1%D0%B0%20%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8%20%28Pre_lib%20370215%29%20-%206%20%D1%81%D1%82%D1%80.pdf) |
 
 
-**Updated:** 15.07.2026 22:19:28
-
+**Updated:** 15.07.2026 22:26:09
 ---
 
-## ⚖️ Important
+## Important
 
 - Materials are provided for **personal non-commercial use only**
 - When using documents, **be sure to mention** the library **Tsarskoye Selo**
