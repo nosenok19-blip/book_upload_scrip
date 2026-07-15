@@ -1,24 +1,24 @@
-# ⚓ РГАВМФ
+# РГАВМФ
 
-Материалы из РГАВМФ
+Materials from РГАВМФ
 
-## 📊 Статистика
-| Тип | Количество |
-|-----|------------|
-| **Всего файлов** | **0** |
+## Statistics
+| Type | Count |
+|------|-------|
+| **Total** | **0** |
 
-## 📖 Все материалы
-| № | Тип | Название | Просмотр | Скачать |
-|---|-----|----------|----------|---------|
-| *Нет файлов* | | | | |
+## All files
+| # | Type | Name | View | Download |
+|---|------|------|------|----------|
+| *No files* | | | | |
 
-📅 **Обновлено:** 15.07.2026 02:52:39
+**Updated:** 15.07.2026 03:16:18
 ---
-## ⚖️ Важно
-- Материалы предоставляются только в **личных некоммерческих целях**
-- При использовании документов **обязательно упоминайте** библиотеку **«Царское Село»**
-- Пользователь **самостоятельно несет ответственность** за соблюдение прав третьих лиц
-- Текстовые данные могут содержать **ошибки автоматического распознавания**
-- Авторы и правообладатели имеют право требовать удаления материалов
+## Important
+- Materials are provided for **personal non-commercial use only**
+- When using documents, **be sure to mention** the library **Tsarskoye Selo**
+- The user is **solely responsible** for compliance with third-party rights
+- Text data may contain **automatic recognition errors**
+- Authors and copyright holders have the right to demand removal of materials
 ---
-🔗 **Вернуться на главную:** [README.md](../README.md)
+**Back to main:** [README.md](../README.md)
