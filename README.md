@@ -5,17 +5,17 @@ Welcome to my digital library! Materials are organized by archive.
 ## Archives
 | Archive | Files | Link |
 |---------|-------|------|
-| Президентская библиотека | 9 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/presidential) |
-| РГБ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rsllib) |
-| РНБ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rnlib) |
-| РГВИА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rgvia) |
-| РГВА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rgva) |
-| РГАВМФ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rgavmf) |
-| ГАРФ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/garf) |
-| РГАДА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/rgada) |
-| ГИМ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/gim) |
-| Google Books | 1 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/google_books) |
-| Разное | 29 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/tree/main/other) |
+| Президентская библиотека | 9 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/README.md) |
+| РГБ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rsllib/README.md) |
+| РНБ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rnlib/README.md) |
+| РГВИА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgvia/README.md) |
+| РГВА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
+| РГАВМФ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
+| ГАРФ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
+| РГАДА | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
+| ГИМ | 0 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
+| Google Books | 1 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
+| Разное | 29 | [Link](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
 **Total files: 39**
 
@@ -42,4 +42,4 @@ Welcome to my digital library! Materials are organized by archive.
 - Authors and copyright holders have the right to demand removal of materials
 ---
 **Repository:** https://github.com/nosenok19-blip/book_upload_scrip
-**Updated:** 15.07.2026 03:37:35
+**Updated:** 15.07.2026 03:53:50
