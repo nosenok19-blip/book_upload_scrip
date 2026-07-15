@@ -5,14 +5,15 @@ Materials from РГАДА
 ## Statistics
 | Type | Count |
 |------|-------|
+| PDF books | 0 |
 | **Total** | **0** |
 
 ## All files
-| # | Type | Name | View (GitHub) | View (Online) | Download |
-|---|------|------|---------------|---------------|----------|
-| *No files* | | | | | |
+| # | Name | View (GitHub) | View (Online) | Download |
+|---|------|---------------|---------------|----------|
+| *No files* | | | | |
 
-**Updated:** 15.07.2026 10:37:01
+**Updated:** 15.07.2026 10:53:43
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
