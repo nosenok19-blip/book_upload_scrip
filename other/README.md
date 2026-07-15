@@ -43,7 +43,7 @@ Materials from Разное
 | 29 | IMG | 1939_Verkehrsplan_Wilna_15K_1939 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) | [Online](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_Verkehrsplan_Wilna_15K_1939.jpg) |
 | 30 | IMG | 1939_plan_Таллин_250 м | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) | [Online](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
 
-**Updated:** 15.07.2026 09:45:38
+**Updated:** 15.07.2026 10:37:07
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
