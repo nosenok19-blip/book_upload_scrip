@@ -8,11 +8,11 @@ Materials from РНБ
 | **Total** | **0** |
 
 ## All files
-| # | Type | Name | View | Download |
-|---|------|------|------|----------|
-| *No files* | | | | |
+| # | Type | Name | View (GitHub) | View (Online) | Download |
+|---|------|------|---------------|---------------|----------|
+| *No files* | | | | | |
 
-**Updated:** 15.07.2026 03:22:16
+**Updated:** 15.07.2026 03:29:58
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
