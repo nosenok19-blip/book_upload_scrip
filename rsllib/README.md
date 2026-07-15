@@ -5,14 +5,15 @@ Materials from РГБ
 ## Statistics
 | Type | Count |
 |------|-------|
-| **Total** | **0** |
+| PDF books | 1 |
+| **Total** | **1** |
 
-## All files
+## All files in РГБ
 | # | Type | Name | View (GitHub) | View (Online) | Download |
 |---|------|------|---------------|---------------|----------|
-| *No files* | | | | | |
+| 1 | PDF | 1912_Томская старина 1912 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) |
 
-**Updated:** 15.07.2026 03:52:39
+**Updated:** 15.07.2026 09:51:49
 ---
 ## Important
 - Materials are provided for **personal non-commercial use only**
