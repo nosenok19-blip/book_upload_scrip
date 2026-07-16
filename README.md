@@ -16,9 +16,9 @@
 | РГАДА | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
 | ГИМ | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
 | Google Books | 1 | 0 | 1 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
-| Разное | 31 | 0 | 31 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
+| Разное | 31 | 1 | 32 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-**Всего файлов: 62** (GitHub: 60, Cloud: 2)
+**Всего файлов: 63** (GitHub: 60, Cloud: 3)
 
 ## 📖 Последние добавленные файлы
 
@@ -52,4 +52,4 @@
 ---
 
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 16.07.2026 17:44:28
+📅 **Обновлено:** 16.07.2026 18:27:56
