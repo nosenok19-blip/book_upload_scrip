@@ -1,23 +1,19 @@
 # Разное
-
 Materials from Разное
-
-## 📊 Statistics
-
+## Statistics
 | Type | Count |
 |------|-------|
-| 📄 PDF books (GitHub) | 24 |
-| 🖼️ Images (GitHub) | 7 |
+| PDF books (GitHub) | 24 |
+| Images (GitHub) | 7 |
 | ☁️ Cloud links | 1 |
 | **Total** | **32** |
 
 ## 📁 Files on GitHub
-
 | # | Type | Name | View (GitHub) | View (Online) | Download |
 |---|------|------|---------------|---------------|----------|
 | 1 | PDF | 1021368_оbzor-irkutskoi-gubernii-za-1904-god_1905 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1021368_%D0%BEbzor-irkutskoi-gubernii-za-1904-god_1905.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1021368_%D0%BEbzor-irkutskoi-gubernii-za-1904-god_1905.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1021368_%D0%BEbzor-irkutskoi-gubernii-za-1904-god_1905.pdf) |
 | 2 | PDF | 1846_Voenn_jurnal_4_6 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1846_Voenn_jurnal_4_6.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1846_Voenn_jurnal_4_6.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1846_Voenn_jurnal_4_6.pdf) |
-| 3 | PDF | 1860-64. МК записи рождения, заключения брака и<br>смерти в церкви села Поречье за 1860-1...,<br>Каталог ЦГА Московской области (ЦГАМО) (398-1-1) | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) |
+| 3 | PDF | 1860-64. МК записи рождения, заключения брака и см | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1860-64.%20%D0%9C%D0%9A%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D0%BA%D0%B0%20%D0%B8%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%20%D0%B2%20%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9F%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%B7%D0%B0%201860-1...%2C%20%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A6%D0%93%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%28%D0%A6%D0%93%D0%90%D0%9C%D0%9E%29%20%28398-1-1%29%20.pdf) |
 | 4 | PDF | 1913_kozlovsky_pervye_pochty_t1_2 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1913_kozlovsky_pervye_pochty_t1_2.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1913_kozlovsky_pervye_pochty_t1_2.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1913_kozlovsky_pervye_pochty_t1_2.pdf) |
 | 5 | PDF | 1916_Sp_izbiratel_1_okrug_Ekaterinodar | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1916_Sp_izbiratel_1_okrug_Ekaterinodar.pdf) | [Online](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1916_Sp_izbiratel_1_okrug_Ekaterinodar.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1916_Sp_izbiratel_1_okrug_Ekaterinodar.pdf) |
 | 6 | IMG | 1917_karta_Vitebsk_gub_10_6 | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1917_karta_Vitebsk_gub_10_6.jpg) | [Online](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1917_karta_Vitebsk_gub_10_6.jpg) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1917_karta_Vitebsk_gub_10_6.jpg) |
@@ -48,24 +44,10 @@ Materials from Разное
 | 31 | IMG | 1939_plan_Таллин_250 м | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) | [Online](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/other/1939_plan_%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD_250%20%D0%BC.jpg) |
 
 ## ☁️ External Links (Cloud Storage)
-
 | # | Name | Description | Download |
 |---|------|-------------|----------|
-| 1 | 2026.07.15 Volok Альбом 729 фото 518,8 Мб | Альбом фотографий Volok | [✈️ Telegram](https://t.me/bookoldsru/68969) <br> [🔗 МАХ](https://max.ru/c/-68053048224351/AZ9mWuWCYoU) |
+| 1 | 2026.07.15 Volok Альбом 729 фото 518,8 М | Альбом фотографий Volok | [✈️ Telegram](https://t.me/bookoldsru/68969) <br> [🔗 МАХ](https://max.ru/c/-68053048224351/AZ9mWuWCYoU) |
 
-
-**Updated:** 16.07.2026 18:35:37
-
+**Updated:** 17.07.2026 07:30:01
 ---
-
-## ⚖️ Important
-
-- Materials are provided for **personal non-commercial use only**
-- When using documents, **be sure to mention** the library **Tsarskoye Selo**
-- The user is **solely responsible** for compliance with third-party rights
-- Text data may contain **automatic recognition errors**
-- Authors and copyright holders have the right to demand removal of materials
-
----
-
 **Back to main:** [README.md](../README.md)
