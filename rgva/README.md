@@ -1,28 +1,13 @@
 # РГВА
-
 Materials from РГВА
-
-## 📊 Statistics
-
+## Statistics
 | Type | Count |
 |------|-------|
+| PDF books (GitHub) | 0 |
+| Images (GitHub) | 0 |
+| ☁️ Cloud links | 0 |
 | **Total** | **0** |
 
-*No files in this archive yet.*
-
-
-**Updated:** 16.07.2026 18:35:19
-
+**Updated:** 17.07.2026 07:29:41
 ---
-
-## ⚖️ Important
-
-- Materials are provided for **personal non-commercial use only**
-- When using documents, **be sure to mention** the library **Tsarskoye Selo**
-- The user is **solely responsible** for compliance with third-party rights
-- Text data may contain **automatic recognition errors**
-- Authors and copyright holders have the right to demand removal of materials
-
----
-
 **Back to main:** [README.md](../README.md)
