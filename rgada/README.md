@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 0 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 5 |
-| **Total** | **5** |
+| ☁️ Cloud links | 6 |
+| **Total** | **6** |
 
 ## ☁️ External Links (Cloud Storage)
 | # | Name | Description | Download |
@@ -16,7 +16,8 @@ Materials from РГАДА
 | 3 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/kBkdDs9ZHt5lfQ) |
 | 4 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/mHbsYhu6s7gXtw) |
 | 5 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/qeBTkOpNAkSSeg) |
+| 6 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
 
-**Updated:** 17.07.2026 08:08:25
+**Updated:** 17.07.2026 08:12:39
 ---
 **Back to main:** [README.md](../README.md)
