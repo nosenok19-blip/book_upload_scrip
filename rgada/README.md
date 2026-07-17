@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 4 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 16 |
-| **Total** | **20** |
+| ☁️ Cloud links | 17 |
+| **Total** | **21** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View (GitHub) | View (Online) | Download |
@@ -19,23 +19,24 @@ Materials from РГАДА
 ## ☁️ External Links (Cloud Storage)
 | # | Name | Description | Download |
 |---|------|-------------|----------|
-| 1 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/3qYv7Wr753ajFg) |
-| 2 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/gXGaPxfhU7yHCg) |
-| 3 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/Pgu2cnQszi_nJQ) |
-| 4 | 01-0 Ревизская сказка на священно-и церк | Ревизская сказка на священно-и | [☁️ Yandex.Disk](https://yadi.sk/d/uZiFFNnyI_BKeQ) |
-| 5 | 01-0 Ревизские сказки на церковно- и свя | Ревизские сказки на церковно-  | [☁️ Yandex.Disk](https://yadi.sk/d/CdZShQSiWH0D9A) |
-| 6 | 01-0 Ревизские сказки на церковно- и свя | Ревизские сказки на церковно-  | [☁️ Yandex.Disk](https://yadi.sk/d/SWz1NJnYrvFBpA) |
-| 7 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/BTuu18I0ZphzvA) |
-| 8 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/yKMQmSJeRrDi5A) |
-| 9 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/ktkFHZM1NzaemQ) |
-| 10 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/1dIAOEAGXL96dw) |
-| 11 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/kBkdDs9ZHt5lfQ) |
-| 12 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/mHbsYhu6s7gXtw) |
-| 13 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/qeBTkOpNAkSSeg) |
-| 14 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
-| 15 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
-| 16 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
+| 1 | 01-0 Алфавитная книга к метрическим книг | Алфавитная книга к метрическим | [☁️ Yandex.Disk](https://yadi.sk/d/Q2QMRYEg8BdInQ) |
+| 2 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/3qYv7Wr753ajFg) |
+| 3 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/gXGaPxfhU7yHCg) |
+| 4 | 01-0 Ревизская сказка двуприходной церкв | Ревизская сказка двуприходной  | [☁️ Yandex.Disk](https://yadi.sk/d/Pgu2cnQszi_nJQ) |
+| 5 | 01-0 Ревизская сказка на священно-и церк | Ревизская сказка на священно-и | [☁️ Yandex.Disk](https://yadi.sk/d/uZiFFNnyI_BKeQ) |
+| 6 | 01-0 Ревизские сказки на церковно- и свя | Ревизские сказки на церковно-  | [☁️ Yandex.Disk](https://yadi.sk/d/CdZShQSiWH0D9A) |
+| 7 | 01-0 Ревизские сказки на церковно- и свя | Ревизские сказки на церковно-  | [☁️ Yandex.Disk](https://yadi.sk/d/SWz1NJnYrvFBpA) |
+| 8 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/BTuu18I0ZphzvA) |
+| 9 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/yKMQmSJeRrDi5A) |
+| 10 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/ktkFHZM1NzaemQ) |
+| 11 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/1dIAOEAGXL96dw) |
+| 12 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/kBkdDs9ZHt5lfQ) |
+| 13 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/mHbsYhu6s7gXtw) |
+| 14 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/qeBTkOpNAkSSeg) |
+| 15 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
+| 16 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
+| 17 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
 
-**Updated:** 17.07.2026 11:58:51
+**Updated:** 17.07.2026 14:09:17
 ---
 **Back to main:** [README.md](../README.md)
