@@ -8,6 +8,6 @@ Materials from РНБ
 | ☁️ Cloud links | 0 |
 | **Total** | **0** |
 
-**Updated:** 19.07.2026 09:34:00
+**Updated:** 19.07.2026 10:00:59
 ---
 **Back to main:** [README.md](../README.md)
