@@ -8,6 +8,6 @@ Materials from ГАРФ
 | ☁️ Cloud links | 0 |
 | **Total** | **0** |
 
-**Updated:** 20.07.2026 18:55:35
+**Updated:** 20.07.2026 19:21:00
 ---
 **Back to main:** [README.md](../README.md)
