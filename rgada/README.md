@@ -101,6 +101,6 @@ Materials from РГАДА
 | 77 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
 | 78 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
 
-**Updated:** 21.07.2026 22:23:10
+**Updated:** 21.07.2026 22:24:21
 ---
 **Back to main:** [README.md](../README.md)
