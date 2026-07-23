@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 7 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 90 |
-| **Total** | **97** |
+| ☁️ Cloud links | 91 |
+| **Total** | **98** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -109,10 +109,11 @@ Materials from РГАДА
 | 85 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
 | 86 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
 | 87 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
-| 88 | 05-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/Nto8b-eSIolh1Q) |
-| 89 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
-| 90 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
+| 88 | 02-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/oV_JqqiSlnUjKw) |
+| 89 | 05-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/Nto8b-eSIolh1Q) |
+| 90 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
+| 91 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
 
-**Updated:** 23.07.2026 13:20:12
+**Updated:** 23.07.2026 13:42:04
 ---
 **Back to main:** [README.md](../README.md)
