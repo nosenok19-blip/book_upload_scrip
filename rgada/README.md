@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 7 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 86 |
-| **Total** | **93** |
+| ☁️ Cloud links | 87 |
+| **Total** | **94** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -108,7 +108,8 @@ Materials from РГАДА
 | 84 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
 | 85 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
 | 86 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
+| 87 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
 
-**Updated:** 22.07.2026 21:49:48
+**Updated:** 23.07.2026 12:09:59
 ---
 **Back to main:** [README.md](../README.md)
