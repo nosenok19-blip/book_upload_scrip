@@ -10,12 +10,12 @@
 | РГВА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
 | РГАВМФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
 | ГАРФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
-| РГАДА | 7 | 86 | 93 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
+| РГАДА | 7 | 87 | 94 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
 | ГИМ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
 | Google Books | 1 | 0 | 1 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
 | Разное | 31 | 1 | 32 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-**Всего файлов: 179** (GitHub: 76, Cloud: 103)
+**Всего файлов: 180** (GitHub: 76, Cloud: 104)
 ## 📖 Последние добавленные
 | # | Тип | Название | Архив | Скачать |
 |---|------|----------|-------|----------|
@@ -31,10 +31,10 @@
 | 10 | PDF | Александр Васильевич Суворов, генералисс | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%2C%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%81%D0%B8%D0%BC%D1%83%D1%81%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85%20%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%20%28Pre_lib%20396875%29%20-%2097%20%D1%81%D1%82%D1%80.pdf) |
 | 11 | PDF | 1913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_ | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_gub_1912_pril_PK.pdf) |
 | 12 | PDF | 1912_Томская старина 1912 | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) |
-| 13 | ☁️ | 01-0-31-1 г. Горячеводск Книга записей с | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
-| 14 | ☁️ | 01-0-31-1 Римско - Католическая церковь  | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
-| 15 | ☁️ | 01-0-31-1 Новогладковская Старообрядческ | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
+| 13 | ☁️ | 15-0 Метрическая книга Александровской н | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
+| 14 | ☁️ | 01-0-31-1 г. Горячеводск Книга записей с | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
+| 15 | ☁️ | 01-0-31-1 Римско - Католическая церковь  | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
 
 ---
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 22.07.2026 21:50:19
+📅 **Обновлено:** 23.07.2026 12:10:22
