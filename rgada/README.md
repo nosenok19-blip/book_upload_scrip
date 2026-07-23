@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 7 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 91 |
-| **Total** | **98** |
+| ☁️ Cloud links | 92 |
+| **Total** | **99** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -113,7 +113,8 @@ Materials from РГАДА
 | 89 | 05-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/Nto8b-eSIolh1Q) |
 | 90 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
 | 91 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
+| 92 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
-**Updated:** 23.07.2026 13:42:04
+**Updated:** 23.07.2026 14:05:39
 ---
 **Back to main:** [README.md](../README.md)
