@@ -8,6 +8,6 @@ Materials from РГВА
 | ☁️ Cloud links | 0 |
 | **Total** | **0** |
 
-**Updated:** 23.07.2026 18:12:40
+**Updated:** 23.07.2026 18:40:06
 ---
 **Back to main:** [README.md](../README.md)
