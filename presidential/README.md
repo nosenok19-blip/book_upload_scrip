@@ -147,6 +147,6 @@ Materials from Президентская библиотека
 | 70 | Сборник 1989890 (1 книг) | Сборник: [PB] Сборник 1989890  | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/ae86ecabbaffbeb25ed012c43aeae77591041a5ce519c5ad79a9370e56c3c721/6a652be4/xUjxs-EEVo08mes6nMakFoKvTXYvbW_04J0NtMcx14Pjx4v7D0K1tCUQhrxVsrxUT29WaLQw4DG-72ec2m1dig%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201989890%20%281%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=562520541&hid=e38f40c1313f567173794566c7d59cca&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=9f0873210dca28014cad2b8441f9179c) |
 | 71 | Сборник 2021355-2021363 (9 книг) | Сборник: [PB] Сборник 2021355- | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/fb993eecd0bdbf57b5ee3fa347761dc640395e1f595be8f4469b0ab5ca17a3dc/6a646b85/xUjxs-EEVo08mes6nMakFt9seLE_q23l3WxWgQxtHyIw4oKrmiR7NRyx4V5lR99wYPLacvZYKald7iDAYY_3og%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%202021355-2021363%20%289%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=1234524880&hid=a2f92b5b85f02f77b26e2a910caa6fe4&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=d2e3778a8f8d0d07cc55b638465052c6) |
 
-**Updated:** 25.07.2026 20:43:15
+**Updated:** 25.07.2026 21:03:56
 ---
 **Back to main:** [README.md](../README.md)
