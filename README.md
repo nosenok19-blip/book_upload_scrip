@@ -3,7 +3,7 @@
 ## 📦 Архивы
 | Архив | GitHub | Cloud | Всего | Перейти |
 |-------|--------|-------|-------|----------|
-| Президентская библиотека | 57 | 53 | 110 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/README.md) |
+| Президентская библиотека | 60 | 68 | 128 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/README.md) |
 | РГБ | 2 | 0 | 2 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rsllib/README.md) |
 | РНБ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rnlib/README.md) |
 | РГВИА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgvia/README.md) |
@@ -15,7 +15,7 @@
 | Google Books | 1 | 0 | 1 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
 | Разное | 31 | 1 | 32 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-**Всего файлов: 267** (GitHub: 98, Cloud: 169)
+**Всего файлов: 285** (GitHub: 101, Cloud: 184)
 ## 📖 Последние добавленные
 | # | Тип | Название | Архив | Скачать |
 |---|------|----------|-------|----------|
@@ -37,4 +37,4 @@
 
 ---
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 25.07.2026 08:15:16
+📅 **Обновлено:** 25.07.2026 13:56:30
