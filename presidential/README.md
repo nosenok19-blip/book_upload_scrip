@@ -7,8 +7,8 @@ Materials from Президентская библиотека
 | Type | Count |
 |------|-------|
 | PDF books (GitHub) | 42 |
-| ☁️ Cloud links | 40 |
-| **Total** | **82** |
+| ☁️ Cloud links | 41 |
+| **Total** | **83** |
 
 ## 📁 Files on GitHub
 
@@ -101,9 +101,10 @@ Materials from Президентская библиотека
 | 38 | Сборник 1911821-1911830 (10 книг) | Сборник: [PB] Сборник<br>1911821-1911830 (10 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/56c0c9369f094a17890813c94ac2826717fb6a832615fcc943eee7b6d8f5ac19/6a627135/xUjxs-EEVo08mes6nMakFrioYPsuV7-cT_32X8yxUGkmdkx2-nvg7ikLDbmLSYywExa7j6obIt90-NU5CbDtBw%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201911821-1911830%20%2810%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=756928916&hid=7442c3e1d6a5571e0676000fbfc81139&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=6129441743d1ba80843f47750ae00bf1) |
 | 39 | Сборник 1911842-1911845-1911846-1911849<br>(4 книг) | Сборник: [PB] Сборник<br>1911842-1911845-1911846-191184<br>9<br>(4 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/7cdcca25c117a2ce6300db4efffcbb707884384625a29a9a88dd06c7eea7a80b/6a629044/xUjxs-EEVo08mes6nMakFtxTGqYl88kkmnQCkvFAw653SwnSCEX9hZIDOaIYTXpoC8CwgyuioWOZg5YJ0fC6Ew%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201911842-1911845-1911846-1911849%20%284%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=528195286&hid=e9ef97a6b93cbcd3e6c497a1b583006a&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=78eadc95b582c0b1e37bef9d4e7f1033) |
 | 40 | Сборник<br>1911862-1911863-1911866-1911867-1911868<br>(5 книг) | Сборник: [PB] Сборник<br>1911862-1911863-1911866-191186<br>7-1911868<br>(5 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/6a306e0ee52934ec822b508d3e1c9eab775b034b951b31aa07d95a5dce2e015b/6a63e440/xUjxs-EEVo08mes6nMakFnLz058L_hk_RJ-xVtNlAuPTa4odM6KiJ9dLiKI6xPhfO-7DXkNlEzcrGboOfxpiBw%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201911862-1911863-1911866-1911867-1911868%20%285%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=433082646&hid=9628ab6b5ee6dad96967ac5da9a5f139&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=d31d29d81bac8fb32e2e2cf09d83c7d2) |
+| 41 | Сборник 1911877-1911880 (2 книг) | Сборник: [PB] Сборник<br>1911877-1911880 (2 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/b93f7f9786e462e6ea5ec76f87d9054f7f37725de96f25ddc78598bde3748146/6a6459e7/xUjxs-EEVo08mes6nMakFmZ1kQpmRk2fVtVb_jG3Anjp4d0_-S0gZYoxefWl0fyHXgY-nAiPuYlRRto-v718KQ%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201911877-1911880%20%282%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=208097733&hid=153f5756590edc76492f5fc23d9cfd35&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=e44bec94baf1921b32696710ecb848ab) |
 
 
-**Updated:** 24.07.2026 21:29:56
+**Updated:** 25.07.2026 05:39:16
 ---
 
 ## Important
