@@ -10,12 +10,12 @@
 | РГВА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
 | РГАВМФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
 | ГАРФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
-| РГАДА | 7 | 118 | 125 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
+| РГАДА | 7 | 119 | 126 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
 | ГИМ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
 | Google Books | 1 | 0 | 1 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
 | Разное | 31 | 1 | 32 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-**Всего файлов: 290** (GitHub: 101, Cloud: 189)
+**Всего файлов: 291** (GitHub: 101, Cloud: 190)
 ## 📖 Последние добавленные
 | # | Тип | Название | Архив | Скачать |
 |---|------|----------|-------|----------|
@@ -37,4 +37,4 @@
 
 ---
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 25.07.2026 20:13:52
+📅 **Обновлено:** 25.07.2026 20:35:16
