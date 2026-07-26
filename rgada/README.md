@@ -3,10 +3,10 @@ Materials from РГАДА
 ## Statistics
 | Type | Count |
 |------|-------|
-| PDF books (GitHub) | 12 |
+| PDF books (GitHub) | 13 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 149 |
-| **Total** | **161** |
+| ☁️ Cloud links | 150 |
+| **Total** | **163** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -23,6 +23,7 @@ Materials from РГАДА
 | 10 | PDF | 01-0 Указы его Императорского Величества, данные и | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.4%20-%2030%20%D1%81%D1%82%D1%80.%2C%2013%2C24%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.4%20-%2030%20%D1%81%D1%82%D1%80.%2C%2013%2C24%20%D0%9C%D0%B1.pdf) |
 | 11 | PDF | 01-0 Указы его Императорского Величества, данные и | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.7%20-%2036%20%D1%81%D1%82%D1%80.%2C%2015%2C03%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.7%20-%2036%20%D1%81%D1%82%D1%80.%2C%2015%2C03%20%D0%9C%D0%B1.pdf) |
 | 12 | PDF | 01-0 Указы его Императорского Величества, данные и | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.9%20-%2021%20%D1%81%D1%82%D1%80.%2C%208%2C15%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.9%20-%2021%20%D1%81%D1%82%D1%80.%2C%208%2C15%20%D0%9C%D0%B1.pdf) |
+| 13 | PDF | 1885 Заявление уездного врача г. Пишпека Адмигород | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%201885%20%D0%97%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B0%D1%87%D0%B0%20%D0%B3.%20%D0%9F%D0%B8%D1%88%D0%BF%D0%B5%D0%BA%D0%B0%20%D0%90%D0%B4%D0%BC%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%90%D0%B4%D0%B0%D0%BC%D0%B0%20%D0%92%D0%B8%D0%BA%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B8...%20%D0%B4.15%20-%2021%20%D1%81%D1%82%D1%80.%2C%206%2C94%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%201885%20%D0%97%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B0%D1%87%D0%B0%20%D0%B3.%20%D0%9F%D0%B8%D1%88%D0%BF%D0%B5%D0%BA%D0%B0%20%D0%90%D0%B4%D0%BC%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%90%D0%B4%D0%B0%D0%BC%D0%B0%20%D0%92%D0%B8%D0%BA%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B8...%20%D0%B4.15%20-%2021%20%D1%81%D1%82%D1%80.%2C%206%2C94%20%D0%9C%D0%B1.pdf) |
 
 ## ☁️ External Links
 | # | Name | Description | Download |
@@ -171,12 +172,13 @@ Materials from РГАДА
 | 142 | 08-0 Метрическая книга Тымовской церкви  | Метрическая книга Тымовской це | [☁️ Yandex.Disk](https://yadi.sk/d/OIJ9djPhHfoK0A) |
 | 143 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
 | 144 | 1875 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/tL1xaavGpzeGtg) |
-| 145 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
-| 146 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
-| 147 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
-| 148 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
-| 149 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
+| 145 | 1885 Заявление уездного врача г. Пишпека | Заявление уездного врача г. Пи | [☁️ Yandex.Disk](https://yadi.sk/i/jLYOaz102-YQKQ) |
+| 146 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
+| 147 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
+| 148 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
+| 149 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
+| 150 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
-**Updated:** 26.07.2026 14:51:14
+**Updated:** 26.07.2026 14:57:16
 ---
 **Back to main:** [README.md](../README.md)
