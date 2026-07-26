@@ -3,10 +3,10 @@ Materials from РГАДА
 ## Statistics
 | Type | Count |
 |------|-------|
-| PDF books (GitHub) | 10 |
+| PDF books (GitHub) | 11 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 141 |
-| **Total** | **151** |
+| ☁️ Cloud links | 142 |
+| **Total** | **153** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -21,6 +21,7 @@ Materials from РГАДА
 | 8 | PDF | 01-0 Ревизская сказка на священно-и церковнослужит | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A0%D0%B5%D0%B2%D0%B8%D0%B7%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B9%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BF%D1%80...%20%D0%B4.1027%20-%2027%20%D1%81%D1%82%D1%80.%2C%208%2C65%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A0%D0%B5%D0%B2%D0%B8%D0%B7%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B9%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BF%D1%80...%20%D0%B4.1027%20-%2027%20%D1%81%D1%82%D1%80.%2C%208%2C65%20%D0%9C%D0%B1.pdf) |
 | 9 | PDF | 01-0 Свидетельство об отсутствии препятствий для в | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D1%82%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%BF%D1%8F%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1...%20%D0%B4.3%20-%2012%20%D1%81%D1%82%D1%80.%2C%203%2C99%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D1%82%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%BF%D1%8F%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1...%20%D0%B4.3%20-%2012%20%D1%81%D1%82%D1%80.%2C%203%2C99%20%D0%9C%D0%B1.pdf) |
 | 10 | PDF | 01-0 Указы его Императорского Величества, данные и | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.4%20-%2030%20%D1%81%D1%82%D1%80.%2C%2013%2C24%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.4%20-%2030%20%D1%81%D1%82%D1%80.%2C%2013%2C24%20%D0%9C%D0%B1.pdf) |
+| 11 | PDF | 01-0 Указы его Императорского Величества, данные и | [GitHub](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.7%20-%2036%20%D1%81%D1%82%D1%80.%2C%2015%2C03%20%D0%9C%D0%B1.pdf) | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rgada/%5B%D0%A0%D0%93%D0%90%D0%94%D0%90%5D%2001-0%20%D0%A3%D0%BA%D0%B0%D0%B7%D1%8B%20%D0%B5%D0%B3%D0%BE%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA...%20%D0%B4.7%20-%2036%20%D1%81%D1%82%D1%80.%2C%2015%2C03%20%D0%9C%D0%B1.pdf) |
 
 ## ☁️ External Links
 | # | Name | Description | Download |
@@ -145,28 +146,29 @@ Materials from РГАДА
 | 118 | 01-0 Свидетельство об отсутствии препятс | Свидетельство об отсутствии пр | [☁️ Yandex.Disk](https://yadi.sk/i/7dndG3sKtPBZug) |
 | 119 | 01-0 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/G6jrN7eb6MFV7A) |
 | 120 | 01-0 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/RGehB77aE24xyQ) |
-| 121 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/BTuu18I0ZphzvA) |
-| 122 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/yKMQmSJeRrDi5A) |
-| 123 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/ktkFHZM1NzaemQ) |
-| 124 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/1dIAOEAGXL96dw) |
-| 125 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/kBkdDs9ZHt5lfQ) |
-| 126 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/mHbsYhu6s7gXtw) |
-| 127 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/qeBTkOpNAkSSeg) |
-| 128 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
-| 129 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
-| 130 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
-| 131 | 02-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/oV_JqqiSlnUjKw) |
-| 132 | 03-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/b9aMw9gG820unQ) |
-| 133 | 05-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/Nto8b-eSIolh1Q) |
-| 134 | 08-0 Метрическая книга Тымовской церкви  | Метрическая книга Тымовской це | [☁️ Yandex.Disk](https://yadi.sk/d/OIJ9djPhHfoK0A) |
-| 135 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
-| 136 | 1875 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/tL1xaavGpzeGtg) |
-| 137 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
-| 138 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
-| 139 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
-| 140 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
-| 141 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
+| 121 | 01-0 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/uTXufnPG9gZLDw) |
+| 122 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/BTuu18I0ZphzvA) |
+| 123 | 01-0-31-1 Метрическая книга о рождении,  | Метрическая книга о рождении,  | [☁️ Yandex.Disk](https://yadi.sk/d/yKMQmSJeRrDi5A) |
+| 124 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/ktkFHZM1NzaemQ) |
+| 125 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/1dIAOEAGXL96dw) |
+| 126 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/kBkdDs9ZHt5lfQ) |
+| 127 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/mHbsYhu6s7gXtw) |
+| 128 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/qeBTkOpNAkSSeg) |
+| 129 | 01-0-31-1 Новогладковская Старообрядческ | Новогладковская Старообрядческ | [☁️ Yandex.Disk](https://yadi.sk/d/v7L6Qh9Jxz2dGg) |
+| 130 | 01-0-31-1 Римско - Католическая церковь  | Римско - Католическая церковь  | [☁️ Yandex.Disk](https://yadi.sk/d/FUMlvLHJ2aq1zQ) |
+| 131 | 01-0-31-1 г. Горячеводск Книга записей с | г. Горячеводск: Книга записей  | [☁️ Yandex.Disk](https://yadi.sk/d/UktNOWziTzssKA) |
+| 132 | 02-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/oV_JqqiSlnUjKw) |
+| 133 | 03-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/b9aMw9gG820unQ) |
+| 134 | 05-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/Nto8b-eSIolh1Q) |
+| 135 | 08-0 Метрическая книга Тымовской церкви  | Метрическая книга Тымовской це | [☁️ Yandex.Disk](https://yadi.sk/d/OIJ9djPhHfoK0A) |
+| 136 | 15-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/W-rkrx1OStoeyg) |
+| 137 | 1875 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/tL1xaavGpzeGtg) |
+| 138 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
+| 139 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
+| 140 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
+| 141 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
+| 142 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
-**Updated:** 26.07.2026 12:13:05
+**Updated:** 26.07.2026 12:19:28
 ---
 **Back to main:** [README.md](../README.md)
