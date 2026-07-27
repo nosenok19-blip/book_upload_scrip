@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 17 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 159 |
-| **Total** | **176** |
+| ☁️ Cloud links | 160 |
+| **Total** | **177** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -185,13 +185,14 @@ Materials from РГАДА
 | 151 | 1875 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/tL1xaavGpzeGtg) |
 | 152 | 1885 Заявление уездного врача г. Пишпека | Заявление уездного врача г. Пи | [☁️ Yandex.Disk](https://yadi.sk/i/jLYOaz102-YQKQ) |
 | 153 | 1889 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/kGzDvO2q-QP8hA) |
-| 154 | 2029 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/i/mjFP89Ac2uBb0A) |
-| 155 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
-| 156 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
-| 157 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
-| 158 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
-| 159 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
+| 154 | 1900 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/d/9cfrl3FpIldn1w) |
+| 155 | 2029 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/i/mjFP89Ac2uBb0A) |
+| 156 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
+| 157 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
+| 158 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
+| 159 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
+| 160 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
-**Updated:** 27.07.2026 18:31:53
+**Updated:** 27.07.2026 18:50:19
 ---
 **Back to main:** [README.md](../README.md)
