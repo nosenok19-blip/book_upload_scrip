@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 17 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 169 |
-| **Total** | **186** |
+| ☁️ Cloud links | 170 |
+| **Total** | **187** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -198,10 +198,11 @@ Materials from РГАДА
 | 164 | 2029 Указы его Императорского Величества | Указы его Императорского Велич | [☁️ Yandex.Disk](https://yadi.sk/i/mjFP89Ac2uBb0A) |
 | 165 | 2042 Метрическая книга записи актов граж | Метрическая книга записи актов | [☁️ Yandex.Disk](https://yadi.sk/d/XFgltrvOA1Turg) |
 | 166 | 23-0 Метрическая книга Александровской н | Метрическая книга Александровс | [☁️ Yandex.Disk](https://yadi.sk/d/js3Lmt-lEJoHzg) |
-| 167 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
-| 168 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
-| 169 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
+| 167 | 24-0 Метрические книги Петро-Павловской  | Метрические книги Петро-Павлов | [☁️ Yandex.Disk](https://yadi.sk/d/fKvFZTmGbIjQng) |
+| 168 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
+| 169 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
+| 170 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
-**Updated:** 30.07.2026 05:56:38
+**Updated:** 30.07.2026 06:26:22
 ---
 **Back to main:** [README.md](../README.md)
