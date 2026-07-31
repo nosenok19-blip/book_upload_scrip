@@ -10,12 +10,12 @@
 | РГВА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
 | РГАВМФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
 | ГАРФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
-| РГАДА | 17 | 183 | 200 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
+| РГАДА | 17 | 184 | 201 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
 | ГИМ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
 | Google Books | 1 | 0 | 1 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
 | Разное | 31 | 1 | 32 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-**Всего файлов: 466** (GitHub: 138, Cloud: 328)
+**Всего файлов: 467** (GitHub: 138, Cloud: 329)
 ## 📖 Последние добавленные
 | # | Тип | Название | Архив | Скачать |
 |---|------|----------|-------|----------|
@@ -32,9 +32,9 @@
 | 11 | PDF | 1913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_ | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_gub_1912_pril_PK.pdf) |
 | 12 | PDF | 1912_Томская старина 1912 | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) |
 | 13 | ☁️ | 31-1 Метрические книги Николаевской церк | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/75TEuPtiqU1djw) |
-| 14 | ☁️ | 26-0 Метрическая книга Дуйской, Александ | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
-| 15 | ☁️ | 26-0 Метрическая книга Анивской, Дуйской | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
+| 14 | ☁️ | 27-1 Метрическая книга Вознесенской церк | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/Zj8R11S1C4R7pg) |
+| 15 | ☁️ | 26-0 Метрическая книга Дуйской, Александ | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
 ---
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 31.07.2026 21:31:28
+📅 **Обновлено:** 31.07.2026 21:56:20
