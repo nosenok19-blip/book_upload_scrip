@@ -5,8 +5,8 @@ Materials from РГАДА
 |------|-------|
 | PDF books (GitHub) | 17 |
 | Images (GitHub) | 0 |
-| ☁️ Cloud links | 176 |
-| **Total** | **193** |
+| ☁️ Cloud links | 177 |
+| **Total** | **194** |
 
 ## 📁 Files on GitHub
 | # | Type | Name | View | Download |
@@ -208,7 +208,8 @@ Materials from РГАДА
 | 174 | 25-0 Метрическая книга Дуйской, Анивской | Метрическая книга Дуйской, Ани | [☁️ Yandex.Disk](https://yadi.sk/d/BUBwWkQ0u-Xt0Q) |
 | 175 | 26-0 Метрическая книга Анивской, Дуйской | Метрическая книга Анивской, Ду | [☁️ Yandex.Disk](https://yadi.sk/d/LHeXWCVtl3iBzA) |
 | 176 | 26-0 Метрическая книга Дуйской, Александ | Метрическая книга Дуйской, Але | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
+| 177 | 31-1 Метрические книги Николаевской церк | Метрические книги Николаевской | [☁️ Yandex.Disk](https://yadi.sk/d/75TEuPtiqU1djw) |
 
-**Updated:** 31.07.2026 18:38:57
+**Updated:** 31.07.2026 19:08:17
 ---
 **Back to main:** [README.md](../README.md)
