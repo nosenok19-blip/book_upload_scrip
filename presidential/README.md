@@ -7,8 +7,8 @@ Materials from Президентская библиотека
 | Type | Count |
 |------|-------|
 | PDF books (GitHub) | 53 |
-| ☁️ Cloud links | 119 |
-| **Total** | **172** |
+| ☁️ Cloud links | 120 |
+| **Total** | **173** |
 
 ## 📁 Files on GitHub
 
@@ -190,10 +190,11 @@ Materials from Президентская библиотека
 | 116 | Сборник 1990064-1990069-1990070 (3 книг) | Сборник: [PB] Сборник<br>1990064-1990069-1990070 (3<br>книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/6cbc8abfc359f8f70573623eb2e8c24c2250878d68812fe973d24f756d55daa0/6a6a60e4/xUjxs-EEVo08mes6nMakFjoXkxqNcunB1Gnvc7gdvVPngdmp1z8q25nUz95CSNO0vAblSetypSUrYlYGotGizw%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201990064-1990069-1990070%20%283%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=263118554&hid=851e2d60e42431d8b1ccc16774418db1&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=ec14289e1d5128e23bb644cca0db8291) |
 | 117 | Сборник 1990071-1990072-1990073-1990075<br>(4 книг) | Сборник: [PB] Сборник<br>1990071-1990072-1990073-199007<br>5<br>(4 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/1e1069e4d6cbbb06c27c1c6901f7bb662111f5eeb6f6d0277e14b93fecfc07a9/6a6afb2e/xUjxs-EEVo08mes6nMakFmxjYrRCz30Q5lJK9QnMQSERiV6BJkFJnjOnGxopj4HmiDXGcmWiKIZOSyKTjmPPTA%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201990071-1990072-1990073-1990075%20%284%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=249258442&hid=942500d2ad893567fb25334895f62ae2&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=b530f2887796336058e478cda2ba2feb) |
 | 118 | Сборник 1990101-1990110 (8 книг) | Сборник: [PB] Сборник<br>1990101-1990110 (8 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/893cad4c1ee9910222a161e0cac96f73fb6ab252fbf7bf7172e03ac16f6c68fd/6a6c3ec5/xUjxs-EEVo08mes6nMakFhHmvobz4SSuRZsdtWs5ppbsejqUQnhdmt9d1JXPPQpQ-MT8_-I7PpOWR_EK7OEFzQ%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201990101-1990110%20%288%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=182318926&hid=38f22f3be91955092e8133b451ba4667&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=f18952478d4d76ea7839fb2c0dbca99f) |
-| 119 | Сборник 2021355-2021363 (9 книг) | Сборник: [PB] Сборник<br>2021355-2021363 (9 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/fb993eecd0bdbf57b5ee3fa347761dc640395e1f595be8f4469b0ab5ca17a3dc/6a646b85/xUjxs-EEVo08mes6nMakFt9seLE_q23l3WxWgQxtHyIw4oKrmiR7NRyx4V5lR99wYPLacvZYKald7iDAYY_3og%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%202021355-2021363%20%289%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=1234524880&hid=a2f92b5b85f02f77b26e2a910caa6fe4&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=d2e3778a8f8d0d07cc55b638465052c6) |
+| 119 | Сборник 1990111-1990120 (10 книг) | Сборник: [PB] Сборник<br>1990111-1990120 (10 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/803af24120bd9f775fa152c8c5828e0baa7200dd218f97eca6c3deb924cbfd74/6a6c40dc/xUjxs-EEVo08mes6nMakFknmDQNPQ_NO4neHucetw0SEEY5puaPAtmCnoeUmslw_jJ3ekbmrW0BGqWDAm9fvuA%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%201990111-1990120%20%2810%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=59228887&hid=69d87df7370d43a92eb018f0a1f1743b&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=8f1625f3c824ed439e7b3e216cc18095) |
+| 120 | Сборник 2021355-2021363 (9 книг) | Сборник: [PB] Сборник<br>2021355-2021363 (9 книг).pdf | [☁️ Яндекс.Диск](https://downloader.disk.yandex.ru/disk/fb993eecd0bdbf57b5ee3fa347761dc640395e1f595be8f4469b0ab5ca17a3dc/6a646b85/xUjxs-EEVo08mes6nMakFt9seLE_q23l3WxWgQxtHyIw4oKrmiR7NRyx4V5lR99wYPLacvZYKald7iDAYY_3og%3D%3D?uid=137265565&filename=%5BPB%5D%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%202021355-2021363%20%289%20%D0%BA%D0%BD%D0%B8%D0%B3%29.pdf&disposition=attachment&hash=&limit=0&content_type=application%2Fpdf&owner_uid=137265565&fsize=1234524880&hid=a2f92b5b85f02f77b26e2a910caa6fe4&media_type=document&tknv=v3&is_direct_zip_experiment=1&etag=d2e3778a8f8d0d07cc55b638465052c6) |
 
 
-**Updated:** 31.07.2026 05:27:04
+**Updated:** 31.07.2026 05:31:07
 ---
 
 ## Important
