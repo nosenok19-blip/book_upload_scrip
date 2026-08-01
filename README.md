@@ -1,55 +1,40 @@
 # 📚 Моя библиотека книг
-
-Добро пожаловать в мою электронную библиотеку! Материалы организованы по архивам.
-
+Добро пожаловать!
 ## 📦 Архивы
+| Архив | GitHub | Cloud | Всего | Перейти |
+|-------|--------|-------|-------|----------|
+| Президентская библиотека | 89 | 146 | 235 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/README.md) |
+| РГБ | 2 | 0 | 2 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rsllib/README.md) |
+| РНБ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rnlib/README.md) |
+| РГВИА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgvia/README.md) |
+| РГВА | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
+| РГАВМФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
+| ГАРФ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
+| РГАДА | 17 | 185 | 202 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
+| ГИМ | 0 | 0 | 0 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
+| Google Books | 1 | 0 | 1 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
+| Разное | 31 | 1 | 32 | [🔗](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
 
-| Архив | GitHub файлов | Cloud ссылок | Всего | Перейти |
-|-------|---------------|--------------|-------|----------|
-| Президентская библиотека | 81 | 145 | 226 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/presidential/README.md) |
-| РГБ | 2 | 0 | 2 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rsllib/README.md) |
-| РНБ | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rnlib/README.md) |
-| РГВИА | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgvia/README.md) |
-| РГВА | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgva/README.md) |
-| РГАВМФ | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgavmf/README.md) |
-| ГАРФ | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/garf/README.md) |
-| РГАДА | 17 | 184 | 201 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/rgada/README.md) |
-| ГИМ | 0 | 0 | 0 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/gim/README.md) |
-| Google Books | 1 | 0 | 1 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/google_books/README.md) |
-| Разное | 31 | 1 | 32 | [🔗 Перейти](https://github.com/nosenok19-blip/book_upload_scrip/blob/main/other/README.md) |
-
-**Всего файлов: 462** (GitHub: 132, Cloud: 330)
-
-## 📖 Последние добавленные файлы
-
+**Всего файлов: 472** (GitHub: 140, Cloud: 332)
+## 📖 Последние добавленные
 | # | Тип | Название | Архив | Скачать |
 |---|------|----------|-------|----------|
-| 1 | PDF | Учительская газета. 1981, № 122 (7967)<br>(13 октября) (ID 1990229) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20122%20%287967%29%20%2813%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990229%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 2 | PDF | Учительская газета. 1981, № 123 (7968)<br>(15 октября) (ID 1990228) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20123%20%287968%29%20%2815%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990228%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 3 | PDF | Учительская газета. 1981, № 124 (7969)<br>(17 октября) (ID 1990227) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20124%20%287969%29%20%2817%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990227%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 4 | PDF | Учительская газета. 1981, № 125 (7970)<br>(20 октября) (ID 1990226) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20125%20%287970%29%20%2820%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990226%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 5 | PDF | Учительская газета. 1981, № 126 (7971)<br>(22 октября) (ID 1990225) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20126%20%287971%29%20%2822%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990225%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 6 | PDF | Учительская газета. 1981, № 127 (7972)<br>(24 октября) (ID 1990224) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20127%20%287972%29%20%2824%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990224%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 7 | PDF | Учительская газета. 1981, № 128 (7973)<br>(27 октября) (ID 1990223) - 3 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20128%20%287973%29%20%2827%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990223%29%20-%203%20%D1%81%D1%82%D1%80.pdf) |
-| 8 | PDF | Учительская газета. 1981, № 129 (7974)<br>(29 октября) (ID 1990222) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20129%20%287974%29%20%2829%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990222%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 9 | PDF | Учительская газета. 1981, № 130 (7975)<br>(31 октября) (ID 1990221) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20130%20%287975%29%20%2831%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990221%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 10 | PDF | Учительская газета. 1981, № 131 (7976)<br>(3 ноября) (ID 1990220) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20131%20%287976%29%20%283%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990220%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 11 | PDF | Учительская газета. 1981, № 132 (7977)<br>(5 ноября) (ID 1990214) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20132%20%287977%29%20%285%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990214%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 12 | PDF | Учительская газета. 1981, № 133 (7978)<br>(7 ноября) (ID 1990208) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20133%20%287978%29%20%287%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990208%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 13 | PDF | Учительская газета. 1981, № 134 (7979)<br>(10 ноября) (ID 1990202) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20134%20%287979%29%20%2810%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990202%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 14 | PDF | Учительская газета. 1981, № 135 (7980)<br>(12 ноября) (ID 1990197) - 4 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20135%20%287980%29%20%2812%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990197%29%20-%204%20%D1%81%D1%82%D1%80.pdf) |
-| 15 | PDF | Учительская газета. 1981, № 136 (7981)<br>(14 ноября) (ID 1990191) - 3 стр | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%5BPB%5D%20%20%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%201981%2C%20%E2%84%96%20136%20%287981%29%20%2814%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%29%20%28ID%201990191%29%20-%203%20%D1%81%D1%82%D1%80.pdf) |
+| 1 | PDF | Санкт-Петербург. Знаменская площадь. Сев | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.%20%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%3D...%20%28Pre_lib%201136290%29%20-%202%20%D1%81%D1%82%D1%80.pdf) |
+| 2 | PDF | Мурманск. Проспект В. И. Ленина (Pre_lib | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%92.%20%D0%98.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%20%28Pre_lib%20348462%29%20-%202%20%D1%81%D1%82%D1%80.pdf) |
+| 3 | PDF | Б. В. Зворыкин. Открытка из серии &quot; | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%91.%20%D0%92.%20%D0%97%D0%B2%D0%BE%D1%80%D1%8B%D0%BA%D0%B8%D0%BD.%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8%20%26quot%3B%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%BE...%20%28Pre_lib%20317165%29%20-%202%20%D1%81%D1%82%D1%80.pdf) |
+| 4 | PDF | Архивные материалы к истории событий на  | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%BA%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%BC%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B5%20%D0%A0...%20%28Pre_lib%20317107%29%20-%20148%20%D1%81%D1%82%D1%80.pdf) |
+| 5 | PDF | Артиллерия атаки и обороны (Pre_lib 8054 | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%8F%20%D0%B0%D1%82%D0%B0%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%20%28Pre_lib%20805473%29%20-%20153%20%D1%81%D1%82%D1%80.pdf) |
+| 6 | PDF | Артиллерийский журнал. 1899, № 1 (Pre_li | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB.%201899%2C%20%E2%84%96%201%20%28Pre_lib%201791888%29%20-%20296%20%D1%81%D1%82%D1%80.pdf) |
+| 7 | PDF | Артиллерийский журнал. 1872, № 8 (Pre_li | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB.%201872%2C%20%E2%84%96%208%20%28Pre_lib%201785598%29%20-%20254%20%D1%81%D1%82%D1%80.pdf) |
+| 8 | PDF | Антанта и Врангель. Вып. 1 (Pre_lib 7189 | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D0%BD%D1%82%D0%B0%D0%BD%D1%82%D0%B0%20%D0%B8%20%D0%92%D1%80%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C.%20%D0%92%D1%8B%D0%BF.%201%20%28Pre_lib%20718920%29%20-%20280%20%D1%81%D1%82%D1%80.pdf) |
+| 9 | PDF | Алфавит книжкам собрания законов и поста | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0%D0%BC%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%B8%20%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%20%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%8F%D1%89%D0%B8%D1%85%D1%81%D1%8F%2C%20%D1%81%20%28Pre_lib%20396930%29%20-%20155%20%D1%81%D1%82%D1%80.pdf) |
+| 10 | PDF | Александр Васильевич Суворов, генералисс | Президентская библиотека | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/presidential/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%2C%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%81%D0%B8%D0%BC%D1%83%D1%81%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85%20%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%20%28Pre_lib%20396875%29%20-%2097%20%D1%81%D1%82%D1%80.pdf) |
+| 11 | PDF | 1913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_ | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201913_Alf_uk_sp_sb_Naseleniya_M_Moskovsk_gub_1912_pril_PK.pdf) |
+| 12 | PDF | 1912_Томская старина 1912 | РГБ | [Download](https://raw.githubusercontent.com/nosenok19-blip/book_upload_scrip/main/rsllib/%5B%D0%A0%D0%93%D0%91%5D%201912_%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%201912.pdf) |
+| 13 | ☁️ | 31-1 Метрические книги Николаевской церк | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/75TEuPtiqU1djw) |
+| 14 | ☁️ | 27-1 Метрическая книга Вознесенской церк | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/Zj8R11S1C4R7pg) |
+| 15 | ☁️ | 26-0 Метрическая книга Дуйской, Александ | РГАДА | [☁️ Yandex.Disk](https://yadi.sk/d/YMOa4wW9UvlYRQ) |
 
 ---
-
-## ⚖️ Важно
-
-- Материалы предоставлены только для **личного некоммерческого использования**
-- При использовании документов **обязательно упоминайте** библиотеку **«Царское Село»**
-- Пользователь **самостоятельно несет ответственность** за соблюдение прав третьих лиц
-- Авторы и правообладатели имеют право требовать удаления материалов
-
----
-
 🔗 **Репозиторий:** https://github.com/nosenok19-blip/book_upload_scrip
-📅 **Обновлено:** 01.08.2026 05:23:25
+📅 **Обновлено:** 01.08.2026 05:25:54
