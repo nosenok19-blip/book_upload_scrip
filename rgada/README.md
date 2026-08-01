@@ -218,6 +218,6 @@ Materials from РГАДА
 | 184 | 27-1 Метрическая книга Вознесенской церк | Метрическая книга Вознесенской | [☁️ Yandex.Disk](https://yadi.sk/d/Zj8R11S1C4R7pg) |
 | 185 | 31-1 Метрические книги Николаевской церк | Метрические книги Николаевской | [☁️ Yandex.Disk](https://yadi.sk/d/75TEuPtiqU1djw) |
 
-**Updated:** 01.08.2026 05:25:31
+**Updated:** 01.08.2026 05:26:21
 ---
 **Back to main:** [README.md](../README.md)
